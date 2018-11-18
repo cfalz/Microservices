@@ -1,3 +1,3 @@
 # Microservices
 
-Project for learning microservice architecture, CI/CD tools and pipelines.
+Project for learning microservice architecture and CI/CD pipeline tools.
